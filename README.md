@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">
+<h1 align="center">
   <br>
   <br>
   <img src="./static/app-icon.png">
