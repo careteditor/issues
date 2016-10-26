@@ -12,7 +12,11 @@ Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and p
 
 [[ website ]](https://caret.io)&nbsp;&nbsp; [[ download ]](https://github.com/careteditor/caret/releases/latest)
 
-![](./static/app.png)
+<h3 align="center">
+<br>
+<img src="./static/app.png" />
+<br>
+</h3>
 
 ## Features
 
