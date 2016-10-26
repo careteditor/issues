@@ -16,6 +16,7 @@ Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and p
 <br>
 <img src="./static/app.png" />
 <br>
+<br>
 </h3>
 
 ## Features
