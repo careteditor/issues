@@ -8,7 +8,9 @@
 
 ### Caret 1.8.0
 
-Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and productivity. Made by [@erusev](https://github.com/erusev) and [@astoilkov](https://github.com/astoilkov).
+Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and productivity.
+<br>
+Made by [@erusev](https://github.com/erusev) and [@astoilkov](https://github.com/astoilkov).
 
 [[ website ]](https://caret.io)&nbsp;&nbsp; [[ download ]](https://github.com/careteditor/caret/releases/latest)
 
