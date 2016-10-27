@@ -34,12 +34,6 @@ Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and p
 - math contents
 - table of contents `[[toc]]`
 
-### Modes
-
-- dark <kbd>Ctrl</kbd> <kbd>;</kbd>
-- focus
-- typewriter
-
 ### Syntax Assistant
 
 - pairs `_` and `*`
@@ -53,6 +47,21 @@ Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and p
 
 ### Context Commands
 - open <kbd>Ctrl</kbd> <kbd>Space</kbd>
+
+### Preview
+
+- open <kbd>Ctrl</kbd> <kbd>R</kbd>
+- instant updates
+- smart scroll synchronization
+- custom css themes
+- preset themes (ex: GitHub)
+- edit directly in preview
+
+### Modes
+
+- dark <kbd>Ctrl</kbd> <kbd>;</kbd>
+- focus
+- typewriter
 
 ### Copy as
 
@@ -76,15 +85,6 @@ Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and p
 - go to end of block <kbd>Ctrl</kbd> <kbd>]</kbd>
 - go to next table cell <kbd>Tab</kbd>
 - go to end of element <kbd>Tab</kbd>
-
-### Preview
-
-- open <kbd>Ctrl</kbd> <kbd>R</kbd>
-- instant updates
-- smart scroll synchronization
-- custom css themes
-- preset themes (ex: GitHub)
-- edit directly in preview
 
 ### Others
 
