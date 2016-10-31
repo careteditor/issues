@@ -1,4 +1,4 @@
-<h1.8.2 align="center">
+<h1 align="center">
   <br>
   <br>
   <img src="./static/app-icon.png">
@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-### Caret 1.8.0
+### Caret 1.8.1
 
 Premium Markdown Editor for Mac / Windows / Linux with focus on simplicity and productivity
 <br>
