@@ -1,0 +1,158 @@
+### Version 2.0 of Mar 24 2017
+
++ #add support for proportional fonts
++ #add file commands: rename, delete, copy, paste
++ #add inline rendering for math expressions
++ #add full screen preview
++ #add command to add selection above / below
++ #add command to split selection into lines
++ #add command to duplicate line
++ #add command to delete line
++ #add command to open file in Finder / Explorer
++ #add support for column select - hold {opt/alt} and drag
++ #add auto-completion for code in html / js / css blocks
++ #add inline matching for brackets in code blocks
++ #add inline matching for words in code blocks
++ #add basic support for .html, .css, .js files
++ #add command palette {cmd/ctrl} {shift} {P}
++ #add preferences for keyboard shortcuts
+
+### Version 1.15 of Mar 9 2017
+
++ #add command File › Export to HTML
++ #add command Go › To Last Edit
++ #add all basic element types to Format menu
++ #add support for page breaks - `+++`
++ #improve algorithm for spellcheck auto-correct
++ #improve appearance of exported PDFs
++ #improve overall UI
+
+### Version 1.14 of Feb 7 2017
+
++ #add support for mermaid diagrams
++ #improve typing speed when writing with multiple cursors
++ #improve behavior of scrolling animation
++ #improve design of git indicators
++ #improve editor theme
+
+### Version 1.13 of Jan 18 2017
+
++ #add preferences - font, font size, line width and height - {cmd/ctrl} {,}
++ #add preview theme - Dark
++ #add select each - {cmd} {ctrl} {g} on Mac and {alt} {f3} on PC
++ #add transpose in Mac version - {ctrl} {t}
++ #add git support
++ #improve startup time
++ #improve overall UI
+
+### Version 1.12 of Dec 22 2016
+
++ #add command select more {opt/alt} {↑} - extends selection
++ #add syntax assistance for strikethrough - select and hit `~`
++ #improve select all doesn't move caret - hit {esc} to restore
++ #improve syntax assistance for inline markers
++ #improve overall UI
++ #improve spellchecker to more accurately detect language
++ #improve editor theme to use less color
+
+### Version 1.11 of Dec 8 2016
+  
++ #add auto-correct spelling option - Edit › Autocorrect Spelling
++ #add auto-insert URL from clipboard on Format › Link or {cmd/ctrl} {k}
++ #improve overall UI
+
+### Version 1.10 of Dec 2 2016
+
++ #add paste URL over selected text creates link
++ #add support for YAML front matter
++ #add support for more font sizes
++ #add highlighting  for code in GitHub theme
++ #add highlighting for "double space" line breaks
++ #improve typewriter mode
++ #improve structure of app menus
++ #improve font rendering on Linux
++ #improve overall UI
+
+### Version 1.9 of Nov 17 2016
+
++ #add multiple cursors - {cmd/ctrl} {D}
++ #add auto-completion for local paths in links and images
++ #add drag and drop support for images and documents
++ #add insert line before / after - {cmd/ctrl} {↵} / {cmd/ctrl} {shift} {↵}
++ #add syntax assistance for math fences
++ #add context actions for emoji
++ #improve overall UI
+
+### Version 1.8 of Oct 25 2016
+
++ #add completion for emoji
++ #add completion for languages in fenced code
++ #improve UI of navigation views
++ #improve spellchecker to ignore medial capitals
+
+### Version 1.7 of Oct 04 2016
+
++ #add autosave - Preferences &rsaquo; Autosave
++ #add convert to comment - {cmd/ctrl} {/} or Format &rsaquo; Comment
++ #improve app icon on Windows
++ #improve dark theme to make it more legible
+
+### Version 1.6 of Sep 26 2016
+
++ #add auto-completion for table cells and table rows
++ #add more context commands for links and lists
++ #improve search algorithm in navigation
++ #improve UI of navigation views
++ #improve {shift} {Enter} to not trigger auto-completion
++ #improve app icons for Mac and Windows
++ #improve window buttons for Mac and Windows
+
+### Version 1.5 of Jul 25 2016
+
++ #add custom themes for preview
++ #add dynamic indentation for task items
++ #add support for table of contents - `[[toc]]`
++ #improve design of Find in Text - {cmd/ctrl} {F}
++ #improve app performance when preview is ON
+
+### Version 1.4 of Jul 11 2016
+
++ #add dynamic indentation for list items
++ #add syntax highlighting for code and math expressions
++ #improve theme of preview
++ #improve security of update requests - HTTPS
+
+### Version 1.3 of Apr 29 2016
+
++ #improve editor engine to make it faster and more reliable
++ #improve theme to add emphasis to emphasis elements
++ #improve theme to remove emphasis from inline markers
++ #improve theme to highlight escape sequences
++ #improve design of find to make matches easier to spot
++ #improve design of file navigator
++ #improve design of preview
+
+### Version 1.2 of Mar 30 2016
+
++ #add support for multiple windows - {cmd/ctrl} {shift} {N}
++ #improve design of navigation screens
+
+### Version 1.1 of Feb 02 2016
+
++ #add live preview with scroll position synchronisation - {cmd/ctrl} {P}
++ #add export to PDF
++ #add heading navigation - {cmd/ctrl} {G}
++ #add support for LaTeX math expressions - `$$e=mc^2$$`
++ #add support for footnotes - `[^label]: footnote`
++ #add support for interactive task lists - `- [x] task`
++ #add auto-completion for HTML tags - `<u>underlined</u>`
++ #add typewriter scrolling mode
++ #add special icons for special folders
++ #add spell check support for non-English languages
++ #add stats for char count and reading time - click to toggle
++ #add command for "Check for Updates"
++ #improve design of file navigation screens
++ #improve text cursor appearance across the app
++ #improve mouse cursor appearance on retina displays
++ #improve styles in preview
++ #improve auto-completion for ordered list items
