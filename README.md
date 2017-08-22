@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-### Caret 3.4.4
+### Caret 3.4.5
 
 Premium Markdown Editor for Mac / Windows / Linux with focus on productivity
 <br>
